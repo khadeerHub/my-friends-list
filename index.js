@@ -1,5 +1,6 @@
 // Array string
-var friendList = ["Hashim", "Shoaib", "Fairoz", "Rabi", "Shafiya", "Iyan"];
+// var friendList = ["Hashim", "Shoaib", "Fairoz", "Rabi", "Shafiya", "/Iyan"];
+var friendList = [];
 // 1st Function
 function greet() {
     var friendPicked = document.querySelector("#Friend").value.toLowerCase();
